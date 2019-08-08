@@ -1,0 +1,120 @@
+body {
+  font-family: 'Lora', serif;
+  font-size: 16px;
+  color: #6f6767;
+}
+
+a {
+  color: #6f6767;
+}
+a:hover {
+  color: #ea9a1f;
+  text-decoration: none;
+}
+a:focus {
+  outline: 0;
+}
+
+.section-heading {
+  font-size: 40px;
+  font-weight: bold;
+  color: #17223f;
+}
+
+.header {
+  background-image: url("../../assets/images/header-bg.jpg");
+  padding: 100px 0;
+  background-size: cover;
+  background-position: center center;
+  background-color: rgba(255, 255, 255, 0.78);
+  background-blend-mode: overlay;
+}
+.header__content {
+  height: 400px;
+}
+.header__content h1 {
+  font-size: 50px;
+  color: #17223f;
+  font-weight: bold;
+}
+.header__content .button {
+  background-color: #17223f;
+  border-radius: 40px;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: bold;
+  margin: 20px 16px 0 0;
+  min-width: 200px;
+  padding: 13px 30px;
+  text-transform: uppercase;
+  border: 2px solid #17223f;
+}
+.header__content .button.buy-now-button {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+.section {
+  padding: 100px 0;
+}
+
+.feature--column {
+  border-radius: 10px;
+  border: 2px solid #dddddd;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  transition: 0.3s linear all;
+  margin: 0 auto 30px;
+}
+.feature--column:hover {
+  border-color: #17223f;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+  transform: scale(1.05);
+  transition: 0.3s linear all;
+}
+.feature--column h3 {
+  font-size: 19px;
+  margin: 15px 0 0 0;
+}
+
+.demo {
+  background-color: #f4f4f4;
+}
+.demo--column {
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.18);
+  padding: 60px 20px;
+  border-radius: 6px;
+  transition: 0.3s ease-in-out all;
+}
+.demo--column:hover {
+  transition: 0.3s ease-in-out all;
+  background-color: #17223f;
+  color: #ffffff;
+}
+.demo--column:hover .demo-button {
+  color: #ffffff;
+}
+.demo--column h3 {
+  margin-bottom: 25px;
+  font-size: 22px;
+}
+.demo .demo-button {
+  display: inline-block;
+  border: 2px solid #dddddd;
+  padding: 10px 38px;
+  border-radius: 40px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #6f6767;
+}
+
+.footer {
+  background-color: #333;
+  padding: 30px 10px;
+  color: #ffffff;
+}
+.footer a {
+  color: #ffffff;
+  font-weight: bold;
+}
