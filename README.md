@@ -25,4 +25,4 @@ A project using the bootstrap framework to design web pages. Can be used as a fr
 * All inspiring tutors :smile:
 
 ## Contributors
-Contributions are always welcome! :smiley:
+Contributions are always welcome!vPlease read the [contribution guidelines](https://github.com/Kolaposki/Bootstrap-Projects/blob/master/contributing.md) first. :smiley:
