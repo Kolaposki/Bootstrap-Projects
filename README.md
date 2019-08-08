@@ -1,6 +1,6 @@
 # Bootstrap-Projects
 A project using the bootstrap framework to design web pages. Can be used as a free template, so as to make designing of webpages faster. 
-
+> Screenshots are added in each folder.
 ## Prerequisites
 * Bootstrap minified css 
 * Bootstrap minified js
@@ -25,4 +25,4 @@ A project using the bootstrap framework to design web pages. Can be used as a fr
 * All inspiring tutors :smile:
 
 ## Contributors
-Contributions are always welcome!vPlease read the [contribution guidelines](https://github.com/Kolaposki/Bootstrap-Projects/blob/master/contributing.md) first. :smiley:
+Contributions are always welcome! Please read the [contribution guidelines](https://github.com/Kolaposki/Bootstrap-Projects/blob/master/contributing.md) first. :smiley:
